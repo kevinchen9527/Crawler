@@ -1,0 +1,53 @@
+
+2022-06-09 13:43:34 INFO     ÕýÔÚËÑË÷ [93m½ÞÃ«ÍäÍä[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m('Connection aborted.', TimeoutError(10060, 'ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓÐÕýÈ·´ð¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓÐ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£', None, 10060, None))[0m
+2022-06-09 13:44:03 WARNING  [31mÎÞ·¨ÔÚqqmusicÖÐËÑË÷ >>>> ½ÞÃ«ÍäÍä[0m
+2022-06-09 13:52:10 INFO     ÕýÔÚËÑË÷ [93mÆßÀïÏã[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 13:52:15 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+[31mHTTPSConnectionPool(host='api.joox.com', port=443): Max retries exceeded with url: /web-fcgi-bin/web_get_songinfo?songid=vT8gcKzRFXzZypW6PJuLCA%3D%3D&lang=zh_cn&country=hk&from_type=-1&channel_id=-1&_=1654753932549 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000291F7F4B820>: Failed to establish a new connection: [WinError 10060] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓÐÕýÈ·´ð¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓÐ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£'))[0m
+2022-06-09 13:52:35 WARNING  [31mÎÞ·¨ÔÚjooxÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+2022-06-09 13:52:43 INFO     ÕýÔÚ´Ó[93mMIGU[0mÏÂÔØ >>>> [93mÆßÀïÏã[0m
+2022-06-09 13:56:32 INFO     ÕýÔÚËÑË÷ [93mÆßÀïÏã[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 13:56:37 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+2022-06-09 13:56:54 INFO     ÕýÔÚ´Ó[93mMIGU[0mÏÂÔØ >>>> [93mÆßÀïÏã[0m
+2022-06-09 14:00:26 INFO     ÕýÔÚËÑË÷ [93mÆßÀïÏã[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 14:00:30 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+2022-06-09 14:00:37 INFO     ÕýÔÚ´Ó[93mMIGU[0mÏÂÔØ >>>> [93mÆßÀïÏã[0m
+2022-06-09 14:00:48 INFO     ³É¹¦´Ó[93mMIGU[0mÏÂÔØµ½ÁË >>>> [93mÆßÀïÏã[0m
+2022-06-09 14:18:13 INFO     ÕýÔÚËÑË÷ [93mÆßÀïÏã[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 14:18:17 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+2022-06-09 14:20:41 INFO     ÕýÔÚËÑË÷ [93mÆßÀïÏã[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 14:20:45 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+2022-06-09 14:22:59 INFO     ÕýÔÚËÑË÷ [93mÆßÀïÏã[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 14:25:50 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+2022-06-09 14:27:27 INFO     ÕýÔÚËÑË÷ [93mÆßÀïÏã[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 14:29:46 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+2022-06-09 14:33:55 INFO     ÕýÔÚËÑË÷ [93mÆßÀïÏã[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 14:33:59 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+2022-06-09 14:34:16 INFO     ÕýÔÚ´Ó[93mMIGU[0mÏÂÔØ >>>> [93mÆßÀïÏã[0m
+2022-06-09 14:34:26 INFO     ³É¹¦´Ó[93mMIGU[0mÏÂÔØµ½ÁË >>>> [93mÆßÀïÏã[0m
+2022-06-09 14:39:51 INFO     ÕýÔÚËÑË÷ [93m& C:/Users/Administrator/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Administrator/PycharmProjects/TaskData/ÅÀ³æ/ÒôÀÖÅÀÈ¡/musicdl/musicdl.py[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31munexpected EOF while parsing (<string>, line 0)[0m
+2022-06-09 14:39:53 WARNING  [31mÎÞ·¨ÔÚfivesingÖÐËÑË÷ >>>> & C:/Users/Administrator/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Administrator/PycharmProjects/TaskData/ÅÀ³æ/ÒôÀÖÅÀÈ¡/musicdl/musicdl.py[0m
+[31m'data'[0m
+2022-06-09 14:39:54 WARNING  [31mÎÞ·¨ÔÚkuwoÖÐËÑË÷ >>>> & C:/Users/Administrator/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Administrator/PycharmProjects/TaskData/ÅÀ³æ/ÒôÀÖÅÀÈ¡/musicdl/musicdl.py[0m
+[31mlist indices must be integers or slices, not str[0m
+2022-06-09 14:39:57 WARNING  [31mÎÞ·¨ÔÚqianqianÖÐËÑË÷ >>>> & C:/Users/Administrator/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Administrator/PycharmProjects/TaskData/ÅÀ³æ/ÒôÀÖÅÀÈ¡/musicdl/musicdl.py[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 14:40:04 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> & C:/Users/Administrator/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Administrator/PycharmProjects/TaskData/ÅÀ³æ/ÒôÀÖÅÀÈ¡/musicdl/musicdl.py[0m
+2022-06-09 14:40:46 INFO     ÕýÔÚËÑË÷ [93mÆßÀïÏã[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31m'NoneType' object is not subscriptable[0m
+2022-06-09 14:40:50 WARNING  [31mÎÞ·¨ÔÚneteaseÖÐËÑË÷ >>>> ÆßÀïÏã[0m
+2022-06-09 14:41:00 INFO     ÕýÔÚ´Ó[93mFIVESING[0mÏÂÔØ >>>> [93mÆßÀïÏã[0m
+2022-06-09 14:41:04 INFO     ³É¹¦´Ó[93mFIVESING[0mÏÂÔØµ½ÁË >>>> [93mÆßÀïÏã[0m
+2022-06-09 14:48:17 INFO     ÕýÔÚËÑË÷ [93m& C:/Users/Administrator/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Administrator/PycharmProjects/TaskData/×Ô¶¯»¯/Ä£ÄâµÇÂ½/DecryptLogin-master/examples/DecryptLoginExamples/crawlers/modifymihealthsteps/modifymihealthsteps.py[0m À´×Ô [93mKUGOU|KUWO|QQMUSIC|QIANQIAN|FIVESING|NETEASE|MIGU|JOOX|YITING[0m
+[31munexpected EOF while parsing (<string>, line 0)[0m
+2022-06-09 14:48:19 WARNING  [31mÎÞ·¨ÔÚfivesingÖÐËÑË÷ >>>> & C:/Users/Administrator/AppData/Local/Programs/Python/Python39/python.exe c:/Users/Administrator/PycharmProjects/TaskData/×Ô¶¯»¯/Ä£ÄâµÇÂ½/DecryptLogin-master/examples/DecryptLoginExamples/crawlers/modifymihealthsteps/modifymihealthsteps.py[0m
